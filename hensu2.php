@@ -9,6 +9,7 @@
 <?php
 	$num1 = 320;
 	$num2 = $num1;
+	$num1 = 45; //num2に影響をおよばさない
 	print "num1=".$num1."<br>";
 	print "num2=".$num2."<br>";
 ?>
